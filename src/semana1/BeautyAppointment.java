@@ -7,6 +7,7 @@ public class BeautyAppointment {
     private String serviceName;
     private double price;
     private int durationMinutes;
+    private String getServiceName;
 
     private static final double TAX_RATE = 0.19;
     // ----------------------- FIN DE ATRIBUTOS ------------------------
@@ -18,6 +19,7 @@ public class BeautyAppointment {
         this.serviceName = serviceName;
         this.price = price;
         this.durationMinutes = durationMinutes;
+
     }
     // ----------------------- FIN DE CONSTRUCTOR ----------------------
 
@@ -51,5 +53,11 @@ public class BeautyAppointment {
     public double getPrice() {
         return price;
     }
+
+    public String getClientName() {
+        return clientName;
+    }
+
+
     // ----------------------- FIN DE MÉTODOS ------------------------
 }
