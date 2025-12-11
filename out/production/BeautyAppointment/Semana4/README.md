@@ -28,24 +28,3 @@ javac *.java
 # Ejecutar la clase principal Main
 java Main
 ```
-## Salida esperada
-``` ==================================================
-==================================================
-PRUEBA SEMANA 04: HERENCIA Y toString()
-==================================================
-
---- 1. Impresión de Objetos con toString() ---
-Corte y Color: Servicio Base: Corte y Color Full | Precio: $150.000,00 | Duración: 120 min | Nivel: Senior | Color Extra: Sí
-Manicure Premium: Servicio Base: Manicure Gel | Precio: $60.000,00 | Duración: 90 min | Diseño de Arte: Sí | Técnico: NTECH005
-
---- 2. Polimorfismo (Lista de Servicios) ---
--> Servicio de Cabello (Corte y Color Full) | Nivel Estilista: Senior | Precio Total: $200.000,00
--> Servicio de Uñas (Manicure Gel) | Técnico ID: NTECH005 | Precio Total: $80.000,00
--> Servicio de Uñas (Pedicure Básico) | Técnico ID: NTECH001 | Precio Total: $40.000,00
-
-==================================================
-FIN DE LA PRUEBA
-==================================================
-
-Process finished with exit code 0
-```
