@@ -27,6 +27,7 @@ java Main
 | Semana | Estado      |
 |--------|-------------|
 |   01   | ✅ Completada |
-|   02   | 🔄 En progreso |
-|   03   | ⏳ Pendiente |
-|   04   | ⏳ Pendiente |
+|   02   | ✅ Completada |
+|   03   | ✅ Completada |
+|   04   | ✅ Completada |
+|   05   | ✅ Completada |
